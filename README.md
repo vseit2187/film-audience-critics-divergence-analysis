@@ -6,7 +6,6 @@ This repository contains the Jupyter notebooks and datasets used in my undergrad
 - `1_descriptive_analysis.ipynb`: Descriptive statistics and exploratory visualizations.
 - `2_modeling.ipynb`: Data preprocessing, modeling, and evaluation.
 - `data/`: Includes the CSV datasets used for analysis (train/test).
-- `figures/`: Directory where plots are automatically saved.
 
 ## Technologies
 Python, pandas, scikit-learn, matplotlib, seaborn, Jupyter Notebook.
