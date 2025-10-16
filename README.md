@@ -4,7 +4,7 @@ This repository contains the Jupyter notebooks and datasets used in my undergrad
 
 ## Contents
 - `1_descriptive_analysis.ipynb`: Descriptive statistics and exploratory visualizations.
-- `2_modeling.ipynb`: modeling, and evaluation.
+- `2_modeling.ipynb`: Modeling, and evaluation.
 - `data/`: Includes the CSV datasets used for analysis (train/test).
 
 ## Technologies
